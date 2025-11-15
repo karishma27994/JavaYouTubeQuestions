@@ -34,6 +34,7 @@ public class FactorialOFNumber_Function {
         {
             System.out.println("Enter an integer number");
         }
+        sc.close();
 
     }
 }
